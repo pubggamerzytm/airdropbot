@@ -4,15 +4,15 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '---',
+	'bot_token' => '1463479534:AAFSH28xcvlOf1TmiDFKxnneua5ctswvMFc',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'bulkdrop_bot',
+	'bot_username' => 'bottcreatorrdevvbot',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'BULKDDROP',
+	'bot_title' => 'Bot_Creator_Dev',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
